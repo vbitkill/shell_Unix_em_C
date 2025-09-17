@@ -20,7 +20,7 @@
 
 ### Comandos Embutidos (Builtins)
 
-    Possui comandos internos que são executados diretamente pelo shell, sem criar um novo processo:
+    possui comandos internos que são executados diretamente pelo shell, sem criar um novo processo:
 
 - `cd [diretório]`: Altera o diretório de trabalho atual. Se nenhum diretório for especificado, muda para o diretório HOME do usuário.
 
@@ -30,7 +30,7 @@
 
 ## Como Compilar
 
-    Para compilar o projeto, você precisará de um compilador C, como o GCC.
+Para compilar o projeto, você precisará de um compilador C, como o GCC.
 
     ```bash
 
@@ -52,9 +52,9 @@ Após a compilação, execute o shell a partir do seu terminal:
 
     ```
 
-    Você verá o prompt e poderá começar a digitar os comandos.
+Você verá o prompt e poderá começar a digitar os comandos.
 
-    Exemplo de uso:
+Exemplo de uso:
 
     ```bash
 
@@ -87,7 +87,5 @@ Após a compilação, execute o shell a partir do seu terminal:
 
 ## CREDITOS
 
-    Bruno Assis Pace RA:05222-035
-    Gabriel Romão Ikegami RA:05222-032
-    Gustavo Scandelae de Flores RA:05222-010
-    Victor Thiago Barbosa RA:05222-021
+    Victor Thiago Barbosa
+    victorthiagob@hotmail.com
